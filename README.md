@@ -1,6 +1,5 @@
 # smarttouristguide
-
-Smart tourist guide app developed as graduation project 2022
+Smart tourist guide app developed to guide tourists in Egypt.
 
 ## Getting Started
 
