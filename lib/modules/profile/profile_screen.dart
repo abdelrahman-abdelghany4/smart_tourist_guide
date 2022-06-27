@@ -133,13 +133,13 @@ class ProfileScreen extends StatelessWidget {
                           UserDataField(
                             controller: firstNameController,
                             icon: Icons.person_rounded,
-                            width: 150,
+                            width: 178,
                           ),
                           Spacer(),
                           UserDataField(
                             controller: lastNameController,
                             icon: Icons.person_rounded,
-                            width: 150,
+                            width: 178,
                           ),
                         ],
                       ),
